@@ -1,1 +1,1 @@
-# Libp2p-Gossipsub-Protobuf
+# Libp2p Gossipsub Protobuf
