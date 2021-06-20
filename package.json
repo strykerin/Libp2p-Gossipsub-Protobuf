@@ -8,5 +8,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "it-pipe": "^1.1.0",
+    "libp2p": "^0.31.7",
+    "libp2p-bootstrap": "^0.12.3",
+    "libp2p-gossipsub": "^0.4.5",
+    "libp2p-noise": "^3.0.0",
+    "libp2p-secio": "^0.12.5",
+    "libp2p-webrtc-star": "^0.22.4",
+    "multiaddr": "^9.0.1",
+    "peer-id": "^0.14.8",
+    "protons": "^2.0.1",
+    "wrtc": "^0.4.7"
+  }
 }
